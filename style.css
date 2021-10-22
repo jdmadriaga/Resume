@@ -1,0 +1,13 @@
+p {
+  color: black;
+}
+ div.highlight{
+        color: black;
+        border-style: solid;
+        font-style: normal;
+ }
+
+body {border-style: solid;
+background-color: pink;
+font-style: italic;
+text-align: center;}
